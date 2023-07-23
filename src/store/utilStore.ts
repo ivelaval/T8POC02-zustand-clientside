@@ -1,0 +1,1 @@
+export const states = <T>(state) => state as T;
